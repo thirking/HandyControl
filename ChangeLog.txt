@@ -1,0 +1,42 @@
+2018.09.04 Version 1.2.1
+* new controls
+ - add TabControl
+ - add ContextMenuButton
+ - add ContextMenuToggleButton
+
+* other
+- update HandyControlDemo UI
+- Localization
+
+2018.09.04 Version 1.2.0
+* new controls
+ - add Growl
+ - add AnimationPath
+ - add TransitioningContentControl
+
+* new style
+ - add ProgressBar
+ - add TreeView
+
+* other
+- update HandyControlDemo UI
+- the ScrollViewer will auto hidden
+
+2018.08.31 Version 1.1.2
+* new controls
+ - add CompareSlider
+
+2018.08.30 Version 1.1.1
+* new controls
+ - add ScrollViewer
+
+2018.08.27 Version 1.1.0
+
+* new controls
+ - add WindowBorderless
+ - add ImageBrowser
+ - add PopupWindow
+
+* new styles
+ - add Menu
+ - add Window
